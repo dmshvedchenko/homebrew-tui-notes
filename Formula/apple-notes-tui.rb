@@ -1,8 +1,8 @@
 class AppleNotesTui < Formula
   desc "Keyboard-first terminal UI for Apple Notes"
   homepage "https://github.com/dmshvedchenko/apple-notes-tui"
-  url "https://github.com/dmshvedchenko/apple-notes-tui/releases/download/v0.1.0/apple-notes-tui-0.1.0-aarch64-apple-darwin.tar.gz"
-  sha256 "97dba5762ba8e040f10eb05d6378cb3f44b35d74a4eb30f98a374c01ea2f7197"
+  url "https://github.com/dmshvedchenko/apple-notes-tui/releases/download/v0.1.1/apple-notes-tui-0.1.1-aarch64-apple-darwin.tar.gz"
+  sha256 "2c1565500d4edaa77f5091cae2ac6130b1eb72486981858fbf8fd2419d3f6003"
   license "MIT"
 
   depends_on arch: :arm64

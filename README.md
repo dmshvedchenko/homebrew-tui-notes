@@ -27,4 +27,4 @@ Check the installed version:
 apple-notes-tui --version
 ```
 
-The v0.1.0 prebuilt Homebrew artifact supports Apple Silicon / arm64 macOS.
+The v0.1.1 prebuilt Homebrew artifact supports Apple Silicon / arm64 macOS.
