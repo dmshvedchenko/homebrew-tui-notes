@@ -1,0 +1,17 @@
+.DS_Store
+*.swp
+*.swo
+*~
+/AGENTS.md
+/AGENT.md
+/CLAUDE.md
+/GEMINI.md
+/COPILOT.md
+/AI.md
+/.codex/
+/.claude/
+/.cursor/
+/.continue/
+/.aider/
+/.windsurf/
+/.github/copilot-instructions.md
